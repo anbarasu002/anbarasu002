@@ -195,11 +195,6 @@ flowchart LR
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anbarasu002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anbarasu002&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
 ---
 
 ## 💼 Experience
