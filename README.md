@@ -215,9 +215,9 @@ flowchart LR
 | Java Full Stack Development | Besant Technologies, Bangalore | 2025 |
 | Full Stack Java Developer Apprenticeship | BDreamz Global Solutions | 2025 |
 | GenAI Powered Data Analytics | TATA (Forage) | 2026 |
-| Front-End Software Engineering | Skyscanner (Forage) | — |
-| Software Engineering for Startups | Blackbird (Forage) | — |
-| Technology Virtual Experience | Deloitte (Forage) | — |
+| Front-End Software Engineering | Skyscanner (Forage) | 2026 |
+| Software Engineering for Startups | Blackbird (Forage) | 2026 |
+| Technology Virtual Experience | Deloitte (Forage) | 2026 |
 
 ---
 
