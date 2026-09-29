@@ -135,7 +135,7 @@ An online book platform with a React frontend and Spring Boot backend for browsi
 - 📱 Responsive React interface
 - 🔗 REST API integration & ☁️ backend deployment
 
-<a href="https://online-book-frontend.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-Book_World-36BCF7?style=for-the-badge" /></a>
+<a href="https://full-stack-online-book-store-web-ap.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-Book_World-36BCF7?style=for-the-badge" /></a>
 
 ---
 
@@ -153,7 +153,7 @@ Manage employee information through a modern React frontend and a REST-based Spr
 - 🔗 Full frontend–backend integration
 - ☁️ Cloud deployment
 
-<a href="https://employee-management-system-mu-blond.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-OrbitHR-36BCF7?style=for-the-badge" /></a>
+<a href="https://employee-management-system-eight-gules.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-OrbitHR-36BCF7?style=for-the-badge" /></a>
 
 ---
 
