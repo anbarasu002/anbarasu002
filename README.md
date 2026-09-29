@@ -192,11 +192,6 @@ flowchart LR
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anbarasu002&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anbarasu002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</p>
----
-
 ## 💼 Experience
 
 ### 🟢 Full Stack Java Developer Apprentice — *BDreamz Global Solutions Pvt. Ltd.* (2025)
